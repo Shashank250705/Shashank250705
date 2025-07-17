@@ -92,12 +92,15 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
       </td>
     </tr>
-    <tr>
-      <td><strong>Other Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      </td>
-    </tr>
+   <tr>
+  <td><strong>Other Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+  </td>
+</tr>
+
   </tbody>
 </table>
 
