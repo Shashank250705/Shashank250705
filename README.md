@@ -106,14 +106,122 @@
 
 ###
 
-<h3 align="left">🔥  GitHub Stats :</h3>
+<h3 align="left">🛠️ Projects</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank250705&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank250705&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank250705&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="33.3%" valign="top">
+      <h3 align="center"><a href="https://github.com/Shashank250705/Vishnu-Training-Placement">📱 BVRIT Placement App</a></h3>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/Vishnu-Training-Placement">
+          <img src="assests/bvritss.jpg" width="100%" alt="BVRIT App Screenshot" style="border-radius: 10px;" />
+        </a>
+      </p>
+      <p align="left">
+        <strong>Tech Stack:</strong>
+        <br />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+      <p align="left">
+        <strong>Key Features:</strong>
+        <ul>
+          <li>📅 Training & placement schedules</li>
+          <li>⚡ Real-time updates</li>
+          <li>🔑 Student & admin access</li>
+          <li>📱 Responsive Android app</li>
+        </ul>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/Vishnu-Training-Placement" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="33.3%" valign="top">
+      <h3 align="center"><a href="https://github.com/Shashank250705/F2F">🛒 Farm2Fresh</a></h3>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/F2F">
+          <img src="assests/f2fss.jpg" width="100%" alt="Farm2Fresh Screenshot" style="border-radius: 10px;" />
+        </a>
+      </p>
+      <p align="left">
+        <strong>Tech Stack:</strong>
+        <br />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/E--Commerce-🛒-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Analytics-📊-orange?style=flat-square" />
+      </p>
+      <p align="left">
+        <strong>Key Features:</strong>
+        <ul>
+          <li>🌱 Fresh produce marketplace</li>
+          <li>💳 Secure payments</li>
+          <li>📍 Order tracking</li>
+          <li>🤝 Farmer-to-consumer direct</li>
+        </ul>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/F2F" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+        </a>
+      </p>
+    </td>
+    <!-- Project 3 -->
+    <td width="33.3%" valign="top">
+      <h3 align="center"><a href="https://github.com/Shashank250705/smart-cart-ss--">⚡ Smart Cart</a></h3>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/smart-cart-ss">
+          <img src="assests/SmartCartss.jpeg" width="100%" alt="Smart Cart Screenshot" style="border-radius: 10px;" />
+        </a>
+      </p>
+      <p align="left">
+        <strong>Tech Stack:</strong>
+        <br />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/QR%20Scanner-🔍-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Smart%20Cart-🛒-green?style=flat-square" />
+      </p>
+      <p align="left">
+        <strong>Key Features:</strong>
+        <ul>
+          <li>🔍 Instant QR & Barcode scanning</li>
+          <li>🛒 Dynamic cart & total estimation</li>
+          <li>💳 Seamless digital checkout</li>
+          <li>📊 Smart list management</li>
+        </ul>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Shashank250705/smart-cart-ss--" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+###
+
+<h3 align="left">🔥 GitHub Profile Summary Cards</h3>
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashank250705/Shashank250705/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" width="400" />
+  <img src="https://raw.githubusercontent.com/Shashank250705/Shashank250705/master/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" width="400" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashank250705/Shashank250705/master/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" width="260" />
+  <img src="https://raw.githubusercontent.com/Shashank250705/Shashank250705/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" width="260" />
+  <img src="https://raw.githubusercontent.com/Shashank250705/Shashank250705/master/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" width="260" />
+</p>
 
 ###
